@@ -14,7 +14,6 @@ public class Notification {
     private String message;
     private LocalDateTime createdAt;
 
-    // Getters and Setters
     public Long getId() {
         return id;
     }
