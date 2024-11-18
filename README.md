@@ -27,7 +27,7 @@ Task Management System — это веб-приложение для управ�
 3. **Скачайте проект**:
    ```sh
    git clone https://github.com/TheOriginalMJKey/Task-Management-System.git
-   cd task-management-system
+   cd Task-Management-System
    ```
 
 4. **Соберите и запустите проект**:
